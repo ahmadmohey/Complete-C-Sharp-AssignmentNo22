@@ -1,0 +1,12 @@
+E:\C# Course\Chapter 09 - 01\6\AssignmentNo22\AssignmentNo22\bin\Debug\AssignmentNo22.exe.config
+E:\C# Course\Chapter 09 - 01\6\AssignmentNo22\AssignmentNo22\bin\Debug\AssignmentNo22.exe
+E:\C# Course\Chapter 09 - 01\6\AssignmentNo22\AssignmentNo22\bin\Debug\AssignmentNo22.pdb
+E:\C# Course\Chapter 09 - 01\6\AssignmentNo22\AssignmentNo22\obj\Debug\AssignmentNo22.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 09 - 01\6\AssignmentNo22\AssignmentNo22\obj\Debug\AssignmentNo22.exe
+E:\C# Course\Chapter 09 - 01\6\AssignmentNo22\AssignmentNo22\obj\Debug\AssignmentNo22.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AssignmentNo22\AssignmentNo22\bin\Debug\AssignmentNo22.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AssignmentNo22\AssignmentNo22\bin\Debug\AssignmentNo22.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AssignmentNo22\AssignmentNo22\bin\Debug\AssignmentNo22.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AssignmentNo22\AssignmentNo22\obj\Debug\AssignmentNo22.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AssignmentNo22\AssignmentNo22\obj\Debug\AssignmentNo22.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AssignmentNo22\AssignmentNo22\obj\Debug\AssignmentNo22.pdb
